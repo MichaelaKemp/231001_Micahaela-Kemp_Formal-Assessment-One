@@ -1,0 +1,269 @@
+html, body, h1, h3 
+{
+    margin: 0;
+    padding: 0;
+}
+
+nav
+{
+    width: 100%;
+    height: 80px;
+    background-color: grey;
+}
+
+header
+{
+    width: 100%;
+    height: 65vh;
+    background-color: lightgrey;
+    padding-left: 10%;
+    padding-top: 8%;
+}
+
+footer
+{
+    width: 100%;
+    height: 150px;
+    background-color: #2b2b2b;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding-top: 3%;
+}
+
+section
+{
+    width: 90%;
+    height: 100px;
+    padding-left: 10%;
+    padding-top: 150px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.logo
+{
+    float: left;
+    padding-left: 10%;
+    padding-top: 20px;
+    font-weight: bold;
+    color: #ffff;
+}
+
+.nav-con
+{
+    width: 720px;
+    height: 50px;
+    float: right;
+    padding-top: 20px;
+}
+
+.nav-con ul
+{
+    list-style: none;
+}
+
+.nav-con li
+{
+    float: left;
+    width: 110px;
+    height: 35px;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-top: 5px;
+}
+
+.nav-con li:hover
+{
+    background-color: #2b2b2b;
+    color: white;
+    cursor: pointer;
+}
+
+.active
+{ 
+    background-color: #2b2b2b !important;
+    color: white;
+}
+
+.col-box
+{
+    width: 100%;
+    height: 100px;
+    background-color: grey;
+    text-align: center;
+    padding-top: 25px;
+    color: #ffff;
+}
+
+.image-block
+{
+    width: 80%;
+    height: 400px;
+    background-color: lightgray;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.second
+{
+    padding-top: 100px;
+    padding-right: 10%;
+}
+
+.call
+{
+    width: 200px;
+    height: 40px;
+    background-color: #ffff;
+    color: #2b2b2b;
+    border: 2px solid #2b2b2b;
+    padding-top: 6px;
+    margin-top: 30px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+   
+}
+
+.call:hover
+{
+    cursor: pointer;
+    background-color: #2b2b2b;
+    color: #ffff;
+    border: 2px solid #ffff;
+    padding-top: 5px !important;
+}
+
+.round-image
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: lightgrey;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.data
+{
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10%;
+    padding-right: 15%;
+}
+
+.click
+{
+    width: 150px;
+    height: 40px;
+    background-color: #2b2b2b;
+    color: #ffff;
+    border: 2px solid #ffff;
+    padding-top: 6px;
+    margin-top: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.click:hover
+{
+    cursor: pointer;
+    background-color: #ffff;
+    color: #2b2b2b;
+    border: 2px solid #2b2b2b;
+    padding-top: 5px !important;
+}
+
+.image-card
+{
+    height: 250px;
+    margin-top: 25px;
+    border-radius: 5px;
+    background-color: lightgrey;
+    margin-bottom: 25px;
+    width: 90%;
+}
+
+.data2
+{
+    text-align: left;
+    padding-top: 25px;
+    padding-right: 80px;
+    padding-left: 10%;
+}
+
+.data3 p
+{
+    padding-right: 150px;
+}
+
+.column
+{
+    height: 350px;
+    width: 80%;
+    margin-top: 25px;
+    border-radius: 5px;
+    background-color: lightgrey;
+    margin-bottom: 25px;
+    padding-right: 10%;
+    padding-left: 10%;
+
+}
+
+.container-fluid
+{
+    padding-bottom: 5%;
+}
+
+.last
+{
+    width: 200px;
+    height: 40px;
+    background-color: #ffff;
+    color: #2b2b2b;
+    border: 2px solid #2b2b2b;
+    padding-top: 6px;
+    margin-top: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.last:hover
+{
+    cursor: pointer;
+    background-color: #2b2b2b;
+    color: #ffff;
+    border: 2px solid #ffff;
+    padding-top: 5px !important;
+}
+
+.second p
+{
+    padding-right: 250px;
+}
+
+.button-groups
+{
+    padding-left: 90px;
+}
+
+.second-section
+{
+    width: 90%;
+    height: 50px;
+    padding-left: 10%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.data3{
+    padding-left: 5%;
+}
+
